@@ -13,7 +13,7 @@ The user can answer the questions on the quiz while a timer counds down from 175
 
 Dev tools can be used by right clicking on the deployed wepage and clicking inspect. This will show the console to the right. 
 
-![screenshot1](assets/images/Screensht(23.png))
+![screenshot1](assets/images/screenshot.png)
 
 
 ## Credits
